@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Battambang', cursive;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    padding: 20px 0px;
+}
+.slide_container{
+    width: 100%;
+    height: 100vh;
+}
+.slide_container .box1{
+    background: #F2F3F4;
+}
+.slide_container .img img{
+    width: 100%;
+}
+.card-form .titel{
+    font-family: 'Fasthand', cursive;
+    padding:10px 0px;
+    font-size: 14px;
+}
+.title-card .title-center a{
+    text-decoration: none;
+    font-size: 33px;
+    color: #000;
+    /* padding: 0px 10px; */
+}
+.title-card .title-center a:hover{
+    color: #67b92e;
+}
+.post-date p{
+    font-size: 13px;
+}
+.shot-des p{
+    font-size: 20px;
+}
+.box2{
+    background: #F2F3F4;
+}
